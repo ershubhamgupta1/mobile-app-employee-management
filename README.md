@@ -14,7 +14,7 @@
 
 <div align="center">
     <img src="/screenshots/employee-app-dashboard-screen.jpg" width="200px"</img> 
-    <img src="/screenshots/employee-app-notification-screen.jpg" width="200px"</img> 
+    <img src="/screenshots/employee-app-notifications-screen.jpg" width="200px"</img> 
     <img src="/screenshots/employee-app-profile.jpg" width="200px"</img> 
 </div>
 
